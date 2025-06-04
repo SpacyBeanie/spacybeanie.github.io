@@ -1,0 +1,19 @@
+
+@import url(reset.css);
+
+body{
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+h1{
+    padding-bottom: 4px;
+}
+
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: url(fnt/Comfortaa-VariableFont_wght.ttf);
+}
