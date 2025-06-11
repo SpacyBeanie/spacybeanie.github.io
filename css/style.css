@@ -2,7 +2,7 @@
 @import url(reset.css);
 
 body{
-    background-color: lightgray;
+    background-color: black;
     color: black;
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
@@ -16,4 +16,9 @@ h1{
 @font-face {
     font-family: 'Comfortaa';
     src: url(fnt/Comfortaa-VariableFont_wght.ttf);
+}
+
+sup{
+    color: gray;
+    font-size: xx-small;
 }
